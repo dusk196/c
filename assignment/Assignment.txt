@@ -1,0 +1,93 @@
+ 1. Write a program to calculate and print the sum of digits. Also check whether the number is perfect or not.
+
+ 2. Write a program to convert a given Celsius temperature to Farenheit temperature.
+
+ 3. Write a program to calculate the L.C.M of two integer numbers.
+
+ 4. Write a program to calculate the H.C.F of two integer numbers.
+
+ 5. Write a program to check whether a number is prime or not.
+
+ 6. Write a program to check whether a number is Armstrong number or not.
+
+ 7. Write a program to calculate the average of 10 numbers using array data structure.
+
+ 8. Write a program to calculate the factorial of a number.
+
+ 9. Write a program to calculate the factors of a number.
+
+10. Write a program to find all prime numbers between certain ranges given by the user.
+
+11. Write a program to determine whether a given number is palindrome or not.
+
+12. Write a program to separate the digits of an integer number.
+
+13. Write a program to print the following pattern :
+
+      i> 1
+         12
+         123
+         1234
+         12345
+
+     ii> 1
+         21
+         321
+         4321
+         54321
+
+    iii> 1
+         22
+         333
+         4444
+         55555
+
+     iv> M
+         MA
+         MAD
+         MADA
+         MADAM
+
+      v>     1
+            21
+           321
+          4321
+         54321
+
+     vi>     1
+            111
+           11111
+          1111111
+         111111111
+
+14. Write a program to generate the fibbonacci series upto a certain range.
+
+15. Write a program to swap the values of two variable without using a third one.
+
+16. Write a program to find the largest element between 3 numbers using conditional statements only.
+
+17. Write a program to find the binary equivalent of an integer number.
+
+18. Write a program to find the area of a triangle using the formula.
+    Area = sqrt[S(S-a)(S-b)(S-c)]
+    Where S = (a+b+c)/2
+
+19. Write a program to find the smallest and largest among 20 integers using array data structure.
+
+20. Write a program to convert a number from any base(r) to any base(P).
+
+21. Write a program to print the following pattern :
+
+      i> *
+         **
+         ***
+         ****
+         *****
+
+     ii>      *
+             ***
+            *****
+           *******
+            *****
+             ***
+              *
